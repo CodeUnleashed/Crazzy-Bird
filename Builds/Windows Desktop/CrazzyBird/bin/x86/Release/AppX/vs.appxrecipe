@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-DTJG9JP</Machine>
+    <WindowsUser>mqai1</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>LodeRunner</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\obj\x86\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E27DEAFC25E9EDC72D381116FCD76E5192C84BE3C6905CCB9C26491B7628F523</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>LodeRunner_1.0.0.0_x86__xqmht9svxp60g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>LodeRunner_xqmht9svxp60g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>LodeRunner</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=QCoder101</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-09T20:30:06.573</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\bin\x86\Release\Template.exe">
+      <PackagePath>Template.exe</PackagePath>
+      <Modified>2015-09-09T20:30:01.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+      <Modified>2015-09-09T20:30:00.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\UnityEngine.Analytics.dll">
+      <PackagePath>UnityEngine.Analytics.dll</PackagePath>
+      <Modified>2015-09-09T20:30:00.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+      <Modified>2015-09-09T20:30:01.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\UnityEngine.Networking.dll">
+      <PackagePath>UnityEngine.Networking.dll</PackagePath>
+      <Modified>2015-09-09T20:30:01.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\UnityEngine.UI.dll">
+      <PackagePath>UnityEngine.UI.dll</PackagePath>
+      <Modified>2015-09-09T20:30:01.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\Players\Windows81\x86\Release\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+      <Modified>2015-06-18T13:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+      <Modified>2015-09-09T20:30:01.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\Players\Windows81\x86\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2015-06-18T13:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\Players\Windows81\x86\Release\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+      <Modified>2015-06-18T13:38:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\Players\Windows81\x86\Release\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+      <Modified>2015-06-18T13:38:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\Players\Windows81\x86\Release\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+      <Modified>2015-06-18T13:38:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\Players\Windows81\x86\Release\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+      <Modified>2015-06-18T13:38:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\Players\Windows81\x86\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2015-06-18T13:42:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\Players\Windows81\x86\Release\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+      <Modified>2015-06-18T13:38:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Assets\MediumTile.scale-100.png">
+      <PackagePath>Assets\MediumTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-20T12:00:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-18T00:28:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-18T00:28:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-20T12:00:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Assets\WideTile.scale-100.png">
+      <PackagePath>Assets\WideTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-20T12:00:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2015-09-09T20:27:59.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\level1">
+      <PackagePath>Data\level1</PackagePath>
+      <Modified>2015-09-09T20:28:00.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\mainData">
+      <PackagePath>Data\mainData</PackagePath>
+      <Modified>2015-09-09T20:28:00.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2015-06-18T13:32:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2015-09-09T20:28:02.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+      <Modified>2015-09-09T20:28:09.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2015-09-09T20:28:01.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\sharedassets1.assets">
+      <PackagePath>Data\sharedassets1.assets</PackagePath>
+      <Modified>2015-09-09T20:28:01.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\sharedassets2.assets">
+      <PackagePath>Data\sharedassets2.assets</PackagePath>
+      <Modified>2015-09-09T20:28:01.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+      <Modified>2015-09-09T20:28:01.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\bin\x86\Release\Template.xr.xml">
+      <PackagePath>Template.xr.xml</PackagePath>
+      <Modified>2015-09-09T20:29:57.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\bin\x86\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-09T20:29:57.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\bin\x86\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-09T20:29:57.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mqai1\Documents\Unity\Crazzy Bird\Builds\Windows Desktop\CrazzyBird\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-09T20:30:01.803</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

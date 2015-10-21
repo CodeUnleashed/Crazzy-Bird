@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\crazzybird\obj\arm\debug\intermediatexaml\template.exe" HashGuid="f8d7de63-52fc-d72c-5305-a4bb95d8a430" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\crazzybird\assembly-csharp.dll" HashGuid="c176514b-b177-38da-1e53-b8a83404ba34" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\players\windows81\arm\debug\bridgeinterface.winmd" HashGuid="29d1480c-e208-3aeb-3e63-d35a361e364e" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\crazzybird\unityengine.analytics.dll" HashGuid="c3d57e4a-050d-1a62-e7ef-ebc11a4e87ff" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\crazzybird\unityengine.dll" HashGuid="437feb33-a12a-1cda-f67e-bede185ce0ec" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\crazzybird\unityengine.networking.dll" HashGuid="f9aca82e-84ca-0318-2987-3d849b1aa44b" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\crazzybird\unityengine.ui.dll" HashGuid="66843947-dbc0-f651-b065-ffc5c9fa0821" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\players\windows81\arm\debug\unityenginedelegates.winmd" HashGuid="d5bfa646-8453-25f8-b5ef-24280c447d94" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\players\windows81\arm\debug\unityengineproxy.dll" HashGuid="c68902b1-e655-bdea-7e4a-c1ebeeed34ec" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\players\windows81\arm\debug\unityplayer.winmd" HashGuid="d7b45378-89d4-38ea-6d85-f30264101114" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\players\windows81\arm\debug\winrtbridge.winmd" HashGuid="8dfe160f-5212-3f9e-583d-66eb3ae46e79" />
+    <ReferenceAssembly PathName="c:\users\mqai1\documents\unity\crazzy bird\builds\windows desktop\crazzybird\winrtlegacy.dll" HashGuid="9993f7a5-e6ca-c625-5eda-cd801246a22c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
